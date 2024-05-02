@@ -3,7 +3,7 @@
 Integrate Python Code into C# .Net using Pythonnet Package.
 
 
-##Instructions to Setup Pythonnet for new Project
+## Instructions to Setup Pythonnet for new Project
 
 1. Create new project in Visual Studio.
 2. Add Pythonnet package using the NuGet Package Manager. 
